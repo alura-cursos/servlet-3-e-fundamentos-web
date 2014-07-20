@@ -13,7 +13,7 @@ Bem vindo ao nosso gerenciador de empresas!<br/>
 	<input type="submit" value="Enviar"> 
 </form>
 <form action="logout" method="post">
-	<input type="submit" value="Deslogar" />
+	<input type="submit" value="Logout" />
 </form>
 </body>
 </html>
