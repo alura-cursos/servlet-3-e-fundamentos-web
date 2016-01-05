@@ -5,11 +5,11 @@
 	id="WebApp_ID" version="3.0">
 	<display-name>gerenciador</display-name>
 
-  <session-config>
-    <tracking-mode>COOKIE</tracking-mode>
-  </session-config>
+	<session-config>
+		<tracking-mode>COOKIE</tracking-mode>
+	</session-config>
 
-  <welcome-file-list>
+	<welcome-file-list>
 		<welcome-file>index.html</welcome-file>
 		<welcome-file>index.jsp</welcome-file>
 	</welcome-file-list>
