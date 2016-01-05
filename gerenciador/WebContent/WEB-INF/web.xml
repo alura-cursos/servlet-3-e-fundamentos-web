@@ -8,7 +8,6 @@
 	<session-config>
 		<tracking-mode>COOKIE</tracking-mode>
 	</session-config>
-	
 
 	<welcome-file-list>
 		<welcome-file>index.html</welcome-file>
